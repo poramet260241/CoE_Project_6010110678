@@ -6,5 +6,8 @@ Design and development tracking system based in IoT for bike sharing is a comput
 I will be developing two parts, it consists of hardware and software. An overview of the system is shown as the figure below. and you can click link to see source code.
 #### System Architecture
 ![system](https://github.com/poramet260241/CoE_Project_6010110678/blob/master/Image/Dev/diagram.png)
-- Software
-- Hardware
+- [Software](https://github.com/poramet260241/bike-sharing-app "Software")
+- [Hardware](https://github.com/poramet260241/bike_sharing_project_hardware "Hardware")
+### Development results
+#### Hardware
+![Box](https://github.com/poramet260241/CoE_Project_6010110678/blob/master/Image/Success/box.jpg "Box")![inside_box](https://github.com/poramet260241/CoE_Project_6010110678/blob/master/Image/Success/inside_box.jpg "inside_box")![bike](https://github.com/poramet260241/CoE_Project_6010110678/blob/master/Image/Success/bike.jpg "bike")
